@@ -20,6 +20,7 @@
 		This tag is used for  <samp> Sample </samp>
 		<h2>The 'em' Tag </h2>
 		This tag is used to <em> Emphasize Something </em> 
+		<mark> Hello World</mark>
 	</body>
 
 <html>
