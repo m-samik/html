@@ -1,0 +1,16 @@
+body{
+	background-color: aqua;}
+h1{
+	background-color: red;
+	text-align : center;
+	text-transform : uppercase;
+	text-shadow : 2px 5px yellow;}
+div{
+	letter-spacing : 5px;
+	word-spacing: 40px;}
+p{
+	color : rgb(255,255,255);
+	text-indent : 100px;
+	direction : rtl;}
+h2{
+	line-height : 2px;}
