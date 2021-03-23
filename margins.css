@@ -1,0 +1,17 @@
+body{
+	border : solid red;}
+h1{
+	border : groove green;
+	margin-top : 80px;
+	margin-right : 10px;
+	margin-bottom : 30px;
+	margin-left : 60px;
+}
+h3{
+	border-color : red;
+	width : 200px;
+	margin : auto;}
+p{
+	border: groove yellow;
+	margin : 40px;}
+

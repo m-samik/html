@@ -1,0 +1,16 @@
+table,th,td{
+	border: solid red  1px;
+	border-collapse : collapse;
+	margin-left :100px  ;
+	margin-top : 50px; }
+#s1{
+	background-color : #7AB860;}
+th{
+	background-color : aqua;
+}
+td{
+	background-color : yellow;}
+caption{
+	background-color : red;
+	color: white;
+	border : solid 2px red;}
